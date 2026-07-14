@@ -41,7 +41,15 @@ Libraries
 
 ## 📸 Screenshots
 
-(Add screenshots here)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5b269f58-c72b-43cb-9022-56c040623669" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/672c9897-f30d-4624-bd70-1089672c547c" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/acb908e8-315a-42a1-bdc5-a3ff66af82f6" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2307c3fe-5c70-4d1d-9159-2b27ac5fd3b4" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c00389f3-9f7e-4719-8e4b-1c27a42bf3bd" />
+
+Backend 
+<img width="662" height="630" alt="image" src="https://github.com/user-attachments/assets/fdee6277-a5dd-438e-9d1d-fefec51eedd6" />
+
 
 ---
 
