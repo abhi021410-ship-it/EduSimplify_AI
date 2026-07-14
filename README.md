@@ -17,6 +17,8 @@ An AI-powered PDF learning assistant built using IBM Granite LLM and Retrieval-A
 ---
 
 ## 🛠 Tech Stack
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/5f05750a-e6c2-4233-8ed7-98b482f19772" />
+
 
 Frontend
 - React.js
