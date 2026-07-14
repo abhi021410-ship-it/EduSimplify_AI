@@ -1,0 +1,128 @@
+.app{
+    min-height:100vh;
+    background:#0f172a;
+}
+
+.container{
+    width:90%;
+    max-width:1100px;
+    margin:auto;
+}
+
+.header{
+    padding:60px 0 40px;
+    text-align:center;
+}
+
+.logo{
+    font-size:58px;
+    font-weight:700;
+    color:white;
+    font-family:Poppins,sans-serif;
+}
+
+.subtitle{
+    margin-top:10px;
+    color:#94a3b8;
+    font-size:18px;
+}
+
+.card{
+    background:#1e293b;
+    border:1px solid #334155;
+    border-radius:20px;
+    padding:30px;
+    margin-top:30px;
+}
+
+.cardTitle{
+    font-size:26px;
+    margin-bottom:20px;
+}
+
+.uploadArea{
+    border:2px dashed #3b82f6;
+    border-radius:18px;
+    padding:40px;
+    text-align:center;
+}
+
+.fileName{
+    margin-top:15px;
+    color:#22c55e;
+}
+
+.uploadButton{
+    margin-top:25px;
+    background:#3b82f6;
+    color:white;
+    border:none;
+    padding:15px 28px;
+    border-radius:12px;
+    font-size:16px;
+    transition:.3s;
+}
+
+.uploadButton:hover{
+    background:#2563eb;
+}
+
+textarea{
+    width:100%;
+    background:#0f172a;
+    color:white;
+    border:1px solid #334155;
+    border-radius:12px;
+    padding:18px;
+    resize:none;
+    min-height:130px;
+    font-size:16px;
+    outline:none;
+}
+
+.askButton{
+    margin-top:20px;
+    width:100%;
+    background:#3b82f6;
+    color:white;
+    border:none;
+    padding:16px;
+    font-size:17px;
+    border-radius:12px;
+    transition:.3s;
+}
+
+.askButton:hover{
+    background:#2563eb;
+}
+
+.answerCard{
+    margin-top:25px;
+    background:#0f172a;
+    border:1px solid #334155;
+    border-radius:15px;
+    padding:25px;
+}
+
+.answerTitle{
+    font-size:22px;
+    margin-bottom:15px;
+}
+
+.answer{
+    color:#dbeafe;
+    line-height:1.8;
+    white-space:pre-wrap;
+}
+
+.success{
+    color:#22c55e;
+    margin-top:20px;
+    font-weight:600;
+}
+
+hr{
+    margin:45px 0;
+    border:none;
+    border-top:1px solid #334155;
+}
