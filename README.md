@@ -1,8 +1,16 @@
 # 🎓 EduSimplify AI
 
-An AI-powered PDF learning assistant built using IBM Granite LLM and Retrieval-Augmented Generation (RAG).
+**An AI learning assistant that lets you chat with any PDF.**  
+Upload a document, ask questions in natural language, and get precise answers from the content — powered by **IBM Granite LLM** and **RAG (Retrieval-Augmented Generation)**.
+
+[![Python](https://img.shields.io/badge/python-3.10+-blue.svg)](#)
+[![FastAPI](https://img.shields.io/badge/fastapi-backend-green)](#)
+[![React](https://img.shields.io/badge/react-frontend-blueviolet)](#)
+[![IBM Watson](https://img.shields.io/badge/IBM-watsonx-orange)](#)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
+
 
 ## 🚀 Features
 
