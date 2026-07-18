@@ -1,6 +1,6 @@
 ---
 
-# 🎯 Project Domain
+#  Project Domain
 
 **Domain:** Artificial Intelligence (AI) | Generative AI | Educational Technology (EdTech)
 
