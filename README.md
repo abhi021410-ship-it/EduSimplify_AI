@@ -1,112 +1,102 @@
+# 🎓 EduSimplify AI
+
+### AI-Powered PDF Learning Assistant using IBM watsonx.ai Granite & Retrieval-Augmented Generation (RAG)
+
+Upload any PDF, ask questions in natural language, and receive intelligent, context-aware answers directly from your document. EduSimplify AI transforms static study materials into an interactive AI learning experience using IBM Granite Foundation Models and Retrieval-Augmented Generation (RAG).
+
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green.svg)
+![React](https://img.shields.io/badge/React-Frontend-61DAFB.svg)
+![IBM watsonx.ai](https://img.shields.io/badge/IBM-watsonx.ai-052FAD.svg)
+![Granite](https://img.shields.io/badge/IBM-Granite_3.3-orange.svg)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 ---
 
-#  Project Domain
+# 📌 Project Overview
 
-**Domain:** Artificial Intelligence (AI) | Generative AI | Educational Technology (EdTech)
+EduSimplify AI is an AI-powered web application that enables students to interact with PDF documents through natural language conversations. Instead of manually searching through lengthy notes, users can simply upload a PDF and ask questions to receive accurate answers generated using IBM Granite Foundation Models.
 
-**IBM Technologies Used**
+The project combines modern web technologies with Retrieval-Augmented Generation (RAG) to provide a faster, smarter, and more engaging learning experience.
+
+---
+
+# 🎯 Project Domain
+
+**Domain:** Artificial Intelligence (AI) • Generative AI • Educational Technology (EdTech)
+
+### IBM Technologies Used
+
 - IBM watsonx.ai
 - IBM Granite 3.3 Foundation Model
 - Retrieval-Augmented Generation (RAG)
 
-EduSimplify AI was developed as part of the **IBM SkillsBuild AICTE Internship**, leveraging IBM's AI technologies to create an intelligent PDF-based learning assistant.
+Developed as part of the **IBM SkillsBuild AICTE Internship**.
 
 ---
 
 # ❗ Problem Statement
 
-Students often spend significant time searching through lengthy lecture notes, textbooks, and research papers to find specific information. Traditional PDF readers rely on keyword searches and cannot understand natural language questions, making studying time-consuming and inefficient.
+Students often spend a significant amount of time searching through lecture notes, textbooks, and research papers to find relevant information. Traditional PDF readers only support keyword searches and cannot understand natural language questions.
 
-EduSimplify AI addresses this challenge by enabling users to upload any PDF document and interact with it through an AI-powered conversational interface that provides accurate, context-aware answers based solely on the uploaded content.
-
----
-
-# 💡 Solution Overview
-
-EduSimplify AI combines modern web technologies with IBM's Generative AI to transform static PDF documents into an interactive learning assistant.
-
-The application extracts text from uploaded PDFs, intelligently divides the content into meaningful chunks, retrieves the most relevant information using Retrieval-Augmented Generation (RAG), and generates accurate responses using IBM Granite 3.3 Foundation Model.
+EduSimplify AI solves this problem by allowing users to upload PDFs and interact with them using conversational AI.
 
 ---
 
-# ✨ Creativity & Innovation
+# 💡 Solution
 
-Unlike conventional PDF readers, EduSimplify AI introduces a conversational learning experience where users can communicate with their study materials using natural language.
-
-### Key Innovative Features
-
-- 🤖 Chat with any PDF document
-- 📚 AI-generated answers grounded in uploaded content
-- 🧠 Retrieval-Augmented Generation (RAG) for improved accuracy
-- 📄 Intelligent PDF text extraction and chunking
-- 🎓 Interactive AI-powered study assistant
-- ⚡ Fast and context-aware response generation
+The application extracts text from uploaded PDFs, intelligently splits the content into searchable chunks, retrieves the most relevant information using Retrieval-Augmented Generation (RAG), and generates accurate answers with IBM Granite.
 
 ---
 
-# ✅ Completeness & Feasibility
+# ✨ Key Features
 
-The project provides a complete end-to-end solution, including:
-
-- Modern React-based Frontend
-- FastAPI Backend
-- IBM watsonx.ai Integration
-- IBM Granite 3.3 Foundation Model
-- PDF Upload and Processing
-- Intelligent Text Chunking
-- AI-powered Question Answering
-- Responsive User Interface
-- Comprehensive Documentation
-- Installation Guide
-- Project Screenshots
-
-The modular architecture allows the application to be easily extended with additional AI capabilities and deployed in real-world educational environments.
+- 📄 Upload any PDF document
+- 🤖 Ask questions in natural language
+- 🧠 IBM Granite 3.3 Foundation Model
+- 📚 Retrieval-Augmented Generation (RAG)
+- ⚡ Intelligent PDF chunking
+- 🎨 Modern React Interface
+- 🚀 FastAPI Backend
+- 📖 Context-aware AI responses
+- 📱 Responsive design
 
 ---
 
-# 🎨 Design & Usability
+# 🛠️ Technology Stack
 
-EduSimplify AI is designed with a clean and intuitive user interface that enables users to interact with documents effortlessly.
+## Frontend
 
-### Design Highlights
+- React.js
+- Vite
+- CSS
 
-- Modern Dark Theme
-- Responsive Layout
-- Simple Navigation
-- One-click PDF Upload
-- Interactive Chat Interface
-- User-friendly Experience
-- Minimal Learning Curve
+## Backend
 
-The application prioritizes accessibility and ease of use, ensuring users can begin interacting with their documents within seconds.
+- FastAPI
+- Python
 
----
+## Artificial Intelligence
 
-# ⚡ Effectiveness & Efficiency
+- IBM watsonx.ai
+- IBM Granite 3.3
+- Retrieval-Augmented Generation (RAG)
 
-The system is designed to deliver fast, reliable, and context-aware responses while minimizing unnecessary AI processing.
+## Libraries
 
-### Performance Features
-
-- Efficient PDF Processing
-- Intelligent Document Chunking
-- Context-based Retrieval
-- Reduced AI Token Usage through RAG
-- Fast Response Generation
-- Lightweight Backend Architecture
-- Accurate Answers Based on Uploaded Documents
-
-By combining Retrieval-Augmented Generation with IBM Granite, EduSimplify AI improves response relevance while reducing hallucinations commonly associated with standalone language models.
+- PyMuPDF
+- ibm-watsonx-ai
+- python-dotenv
 
 ---
 
 # 🏗️ System Architecture
 
-```
+```text
                  User
                    │
                    ▼
-          React Frontend (Vite)
+          React Frontend
                    │
                    ▼
             FastAPI Backend
@@ -134,23 +124,128 @@ By combining Retrieval-Augmented Generation with IBM Granite, EduSimplify AI imp
 
 ---
 
-# 🚀 Future Scope
+# 📸 Project Screenshots
 
-- 🌍 Multi-language Support
-- 🎤 Voice-based Interaction
-- 📚 Multiple PDF Knowledge Base
-- 📝 Automatic PDF Summarization
-- 🔍 Semantic Search Across Documents
-- ☁️ Cloud Deployment
-- 👤 User Authentication
-- 📱 Mobile-Friendly Interface
+## 🏠 Home Page
+
+> 📷 **Paste Screenshot 1 here**
+
+<!-- Paste Image -->
 
 ---
 
-# 🌟 Project Impact
+## 📄 Upload PDF
 
-EduSimplify AI demonstrates how IBM watsonx.ai and Retrieval-Augmented Generation can be applied to improve digital education by transforming static learning resources into interactive AI-powered study assistants.
+> 📷 **Paste Screenshot 2 here**
 
-The project enhances learning efficiency, reduces the time spent searching through documents, and provides students with a smarter and more engaging way to study.
+<!-- Paste Image -->
 
 ---
+
+## 💬 Ask Questions
+
+> 📷 **Paste Screenshot 3 here**
+
+<!-- Paste Image -->
+
+---
+
+## 🤖 AI Generated Response
+
+> 📷 **Paste Screenshot 4 here**
+
+<!-- Paste Image -->
+
+---
+
+## ⚙️ Backend Running
+
+> 📷 **Paste Screenshot 5 here**
+
+<!-- Paste Image -->
+
+---
+
+## 🧠 IBM Granite Integration
+
+> 📷 **Paste Screenshot 6 here (Optional)**
+
+<!-- Paste Image -->
+
+---
+
+# ⚙️ Installation
+
+## Clone Repository
+
+```bash
+git clone https://github.com/abhi021410-ship-it/EduSimplify_AI.git
+cd EduSimplify_AI
+```
+
+## Backend
+
+```bash
+cd backend
+pip install -r requirements.txt
+uvicorn main:app --reload
+```
+
+## Frontend
+
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+---
+
+# 🚀 How It Works
+
+1. Upload a PDF document.
+2. Extract text using PyMuPDF.
+3. Split text into meaningful chunks.
+4. Retrieve relevant context using RAG.
+5. Send the context to IBM Granite.
+6. Generate accurate AI responses.
+7. Display answers in the chat interface.
+
+---
+
+# 🚀 Future Enhancements
+
+- 🌍 Multi-language support
+- 🎤 Voice interaction
+- 📚 Multiple PDF knowledge base
+- 📝 AI-generated summaries
+- ☁️ Cloud deployment
+- 🔐 User authentication
+- 📱 Mobile optimization
+
+---
+
+# 🌟 Project Highlights
+
+- Built using IBM watsonx.ai
+- Powered by IBM Granite Foundation Models
+- Implements Retrieval-Augmented Generation (RAG)
+- Interactive PDF-based AI learning assistant
+- Modern React + FastAPI architecture
+- Designed for education and knowledge retrieval
+
+---
+
+# 👨‍💻 Author
+
+**M. Abhiram Reddy**
+
+B.Tech – Artificial Intelligence & Data Science
+
+📧 LinkedIn: https://www.linkedin.com/in/abhiram-reddy-7470b6344/
+
+💻 GitHub: https://github.com/abhi021410-ship-it
+
+---
+
+⭐ If you found this project useful, consider giving it a **Star** on GitHub!
